@@ -1,9 +1,13 @@
-# Admission
+
 # Unblocked Games Deployment Hub
 
 Welcome to the Unblocked Games Deployment GitHub organization! Our mission is to create a collaborative platform where users can easily share and discover links to existing Unblocked Games websites. Whether you've created a site or you're looking for a variety of games to play, this organization is the perfect place to connect with fellow gamers. Below, you'll find information on how to contribute and benefit from this hub.
 
 ## How to Contribute
+
+Go to a Repo where You can Fork And Deploy such as https://github.com/RailinGames/RailinGames.github.io
+
+https://github.com/Parcoil/nativegames.net. Now Fork the Repo And go to settings Then Pages Change nothing But change the Branch to Main and Save Then wait a while and go to about and go down until you find Your github Pages Logo and click on the ... or icon and copy the link and submit after you make sure the link works.
 
 To contribute your Unblocked Games website link or discover new links, follow these simple steps:
 
