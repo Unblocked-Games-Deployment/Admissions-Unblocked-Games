@@ -20,7 +20,7 @@ To contribute your Unblocked Games website link or discover new links, follow th
 
 ## Getting Started
 
-1. **Explore Links:** To start exploring the list of shared Unblocked Games websites, head over to the [Issues](https://github.com/UnblockedGamesDeployment/links/issues) section of this repository.
+1. **Explore Links:** To start exploring the list of shared Unblocked Games websites, head over to the [Issues](https://github.com/Unblocked-Games-Deployment/Admissions-Unblocked-Games/issues) section of this repository.
 
 2. **Share Your Link:** If you have a Unblocked Games website that you'd like to share, create a new issue with the "Link Submission" template. Fill in the required information, and your link will be added to the repository for others to discover.
 
